@@ -1,0 +1,10 @@
+.to-do-add{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 4vmin;
+    border-radius: 2vmin;
+}
+.form-control{
+    border-radius: 3vmin;
+    color: black;
+    background-color:skyblue;
+}
